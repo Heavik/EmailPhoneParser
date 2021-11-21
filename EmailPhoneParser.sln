@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailPhoneParser", "EmailPhoneParser\EmailPhoneParser.csproj", "{5B7A8C64-583F-4801-84B1-50508460E9D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailPhoneParser.Tests", "EmailPhoneParser.Tests\EmailPhoneParser.Tests.csproj", "{CBAAAEC9-EE1C-4BC9-AC4F-B7AAE0A1BEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7A8C64-583F-4801-84B1-50508460E9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7A8C64-583F-4801-84B1-50508460E9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7A8C64-583F-4801-84B1-50508460E9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7A8C64-583F-4801-84B1-50508460E9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBAAAEC9-EE1C-4BC9-AC4F-B7AAE0A1BEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAAAEC9-EE1C-4BC9-AC4F-B7AAE0A1BEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAAAEC9-EE1C-4BC9-AC4F-B7AAE0A1BEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAAAEC9-EE1C-4BC9-AC4F-B7AAE0A1BEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
